@@ -1,0 +1,220 @@
+[
+	{
+        "id": 1,
+        "name": "Test product1",
+        "price": 12.50,
+        "tags": ["TRADE A", "ice"],
+		"vendor":"Vendor 5",
+		"discount" : 0
+    },
+    {
+        "id": 2,
+        "name": "Test Product2",
+        "price": 42.50,
+        "tags": ["TRADE B", "ice2"],
+		"vendor":"Vendor 4",
+		"discount" : 0
+    },
+    {
+        "id": 3,
+        "name": "Test Product3",
+        "price": 200.00,
+        "tags": ["TRADE C", "test"],
+		"vendor":"Vendor 3",
+		"discount" : 3
+    },
+    {
+        "id": 4,
+        "name": "Test Product4",
+        "price": 52.50,
+        "tags": ["TRADE C", "test"],
+		"vendor":"Vendor 2",
+		"discount" : 0
+    },
+    {
+        "id": 5,
+        "name": "Test Product5",
+        "price": 712.50,
+        "tags": ["TRADE D", "test"],
+		"vendor":"Vendor 1",
+		"discount" : 0
+    },
+    {
+        "id": 6,
+        "name": "Test Product6",
+        "price": 17.00,
+        "tags": ["TRADE A", "test"],
+		"vendor":"Vendor 3",
+		"discount" : 12
+    },
+    {
+        "id": 7,
+        "name": "Test Product7",
+        "price": 55.00,
+        "tags": ["TRADE A", "test"],
+		"vendor":"Vendor 3",
+		"discount" : 12
+    },
+    {
+        "id": 8,
+        "name": "Test Product8",
+        "price": 37.00,
+        "tags": ["TRADE D", "test"],
+		"vendor":"Vendor 4",
+		"discount" : 12
+    },
+    {
+        "id": 9,
+        "name": "Test Product9",
+        "price": 82.00,
+        "tags": ["TRADE C", "test"],
+		"vendor":"Vendor 4",
+		"discount" : 34
+    },
+    {
+        "id": 10,
+        "name": "Test Product10",
+        "price": 52.00,
+        "tags": ["TRADE B", "test"],
+		"vendor":"Vendor 2",
+		"discount" : 25
+    },
+    {
+        "id": 11,
+        "name": "Test Product11",
+        "price": 102.00,
+        "tags": ["TRADE B", "test"],
+		"vendor":"Vendor 1",
+		"discount" : 25
+		
+    },
+    {
+        "id": 12,
+        "name": "Test Product12",
+        "price": 172.50,
+        "tags": ["TRADE B", "test"],
+		"vendor":"Vendor 4",
+		"discount" : 0
+    },
+    {
+        "id": 13,
+        "name": "Test Product13",
+        "price": 100.00,
+        "tags": ["TRADE D", "test"],
+		"vendor":"Vendor 5",
+		"discount" : 12
+    },
+    {
+        "id": 14,
+        "name": "Test Product14",
+        "price": 99.50,
+        "tags": ["TRADE D", "test"],
+		"vendor":"Vendor 5",
+		"discount" : 12
+    },
+    {
+        "id": 15,
+        "name": "Test Product15",
+        "price": 87.50,
+        "tags": ["TRADE A", "test"],
+		"vendor":"Vendor 5",
+		"discount" : 0
+    },
+    {
+        "id": 16,
+        "name": "Test Product16",
+        "price": 57.00,
+        "tags": ["TRADE A", "test"],
+		"vendor":"Vendor 1",
+		"discount" : 29
+    },
+    {
+        "id": 17,
+        "name": "Test Product17",
+        "price": 10.00,
+        "tags": ["TRADE C", "test"],
+		"vendor":"Vendor 2",
+		"discount" : 0
+    },
+    {
+        "id": 18,
+        "name": "Test Product18",
+        "price": 412.50,
+        "tags": ["TRADE D", "test"],
+		"vendor":"Vendor 3",
+		"discount" : 56
+    },
+    {
+        "id": 19,
+        "name": "Test Product19",
+        "price": 112.50,
+        "tags": ["TRADE B", "test"],
+		"vendor":"Vendor 4",
+		"discount" : 0
+    },
+    {
+        "id": 20,
+        "name": "Test Product20",
+        "price": 102.00,
+        "tags": ["TRADE B", "test"],
+		"vendor":"Vendor 5",
+		"discount" : 15
+    },
+    {
+        "id": 21,
+        "name": "Test Product21",
+        "price": 52.00,
+        "tags": ["TRADE A", "test"],
+		"vendor":"Vendor 3",
+		"discount" : 12
+    },
+    {
+        "id": 22,
+        "name": "Test Product22",
+        "price": 32.00,
+        "tags": ["TRADE C", "test"],
+		"vendor":"Vendor 2",
+		"discount" : 0
+    },
+    {
+        "id": 23,
+        "name": "Test Product23",
+        "price": 12.00,
+        "tags": ["TRADE B", "test"],
+		"vendor":"Vendor 4",
+		"discount" : 0
+    },
+    {
+        "id": 24,
+        "name": "Test Product24",
+        "price": 584.50,
+        "tags": ["TRADE D", "test"],
+		"vendor":"Vendor 1",
+		"discount" : 0
+    },
+    {
+        "id": 25,
+        "name": "Test Product25",
+        "price": 67.00,
+        "tags": ["TRADE D", "test"],
+		"vendor":"Vendor 5"
+    },
+    {
+        "id": 26,
+        "name": "Test Product26",
+        "price": 132.50,
+        "tags": ["TRADE A", "test"],
+		"vendor":"Vendor 5",
+		"discount" : 0
+    },
+    {
+        "id": 27,
+        "name": "Test Product27",
+        "price": 42.50,
+        "tags": ["TRADE B", "test"],
+		"vendor":"Vendor 2",
+		"discount" : 0
+    }
+
+
+]

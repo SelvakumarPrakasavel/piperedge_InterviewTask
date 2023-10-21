@@ -1,0 +1,44 @@
+.common{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.table th, .table td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+  }
+.table thead th{
+    text-align: center;
+    border-left: 4px solid white;
+}
+
+.table thead th:first-child {
+    border-left: none; /* Remove left border on first column */
+  }
+
+
+.table tbody tr td{
+    text-align: center;
+}
+
+.bttn{
+    border: none;
+    background-color: green;
+    color: #fff !important;
+}
+.btntd{
+    background-color: green !important;
+    border-bottom: 1px solid white !important;
+}
+
+.bttnremove{
+    border: none;
+    background-color: red;
+    color: #fff !important;  
+}
+
+.bttnremovetd{
+    background-color: red !important;
+    border-bottom: 1px solid white !important;
+}
